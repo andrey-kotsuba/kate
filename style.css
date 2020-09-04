@@ -62,6 +62,6 @@
 }
 
 .smile:hover .mouth {
-    height: 30px;
-    border-radius: 0 0 30px 30px;
+    height: 40px;
+    border-radius: 0 0 50% 50%;
 }
